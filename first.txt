@@ -1,4 +1,0 @@
-This is my first file.
-modified.
-modified in firstbranch.
-modified in master.
